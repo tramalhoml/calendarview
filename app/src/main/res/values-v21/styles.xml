@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.CalendarView.Custom" parent="android:Widget.Material.Light.CalendarView">
+        <item name="android:focusedMonthDateColor">@color/colorPrimary</item>
+        <item name="android:weekDayTextAppearance">@style/CalenderViewDateCustomText</item>
+        <item name="android:dateTextAppearance">@style/CalenderViewDateCustomText</item>
+        <item name="android:textAppearance">@style/CalenderViewDateCustomText</item>
+    </style>
+</resources>

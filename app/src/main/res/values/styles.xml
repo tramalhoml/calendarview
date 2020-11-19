@@ -21,6 +21,7 @@
     <style name="CalenderViewDateCustomText" parent="android:TextAppearance">
         <item name="android:textColor">@android:color/black</item>
         <item name="android:fontFamily">@font/lobster_two_italic</item>
+        <item name="fontFamily">@font/lobster_two_italic</item>
     </style>
 
 </resources>
